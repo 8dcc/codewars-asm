@@ -1,2 +1,2 @@
-# codewars-asm
-Assembly stuff I made for codewars
+# Assembly codewars
+**Assembly stuff I made for codewars**
